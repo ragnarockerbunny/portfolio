@@ -104,15 +104,18 @@ input, textarea{
     color: rgb(209, 181, 152);
 }
 
-.portfolio-card-container{
+.portfolio-item-container{
     margin-top: 40px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display:block;
+    text-align: center;
+}
+
+.portfolio-item{
+    width: 100%;
 }
 
 .portfolio-card{
-    display: flex;
+    display: inline-flex;
     justify-content: center;
     align-items: flex-end;
     width: 400px;
