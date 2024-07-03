@@ -118,8 +118,8 @@ input, textarea{
     display: inline-flex;
     justify-content: center;
     align-items: flex-end;
-    width: 400px;
-    height: 300px;
+    width: 320px;
+    height: 180px;
     border-radius: 15px;
     overflow: hidden;
     position: relative;
