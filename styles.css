@@ -97,6 +97,7 @@ section h1{
     padding: 12px;
     color: rgb(255, 250, 244);
     border: none;
+    margin-bottom: 10px;
 }
 .form-button:hover{
     background-color: #741f46 ;
