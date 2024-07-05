@@ -8,7 +8,7 @@ h1, h2, h3, h4{
 
 input, textarea{
     border-radius: 12px;
-    border: 2px solid #bb3674 ;
+    border: 2px solid #9A2D60 ;
     padding: 12px;
 }
 
@@ -19,7 +19,7 @@ input, textarea{
 }
 
 .purple-bg{
-    background-color: #bb3674;
+    background-color: #9A2D60;
 }
 
 .light-bg{
@@ -93,10 +93,13 @@ section h1{
 
 .form-button{
     border-radius: 12px;
-    background-color: #bb3674 ;
+    background-color: #9A2D60 ;
     padding: 12px;
     color: rgb(255, 250, 244);
     border: none;
+}
+.form-button:hover{
+    background-color: #741f46 ;
 }
 
 .socials-div{
